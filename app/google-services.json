@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795634917451",
+    "project_id": "bookstore-73f29",
+    "storage_bucket": "bookstore-73f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795634917451:android:b025a643743da2fd656dce",
+        "android_client_info": {
+          "package_name": "com.example.kindabookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEADTr05NkHs5Xzdmv0sETZeUUWRBN4cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
